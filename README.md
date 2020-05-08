@@ -1,10 +1,10 @@
-This is a COVID-19 Tracker Application in React which shows you details of COVID-19 cases till current date.
+## This is a COVID-19 Tracker Application in React which shows you details of COVID-19 cases till current date.
 
-## Download or Clone the code and run following commad to install all the dependencies. 
+1] Download or Clone the code and run following commad to install all the dependencies. 
 
 `npm install`
 
-## Once all the dependencies are installed run following command to run the application.
+2] Once all the dependencies are installed run following command to run the application.
 
 `npm start`
 
